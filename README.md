@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Joel Estumano
 
-#### **Desenvolvedor Web** com mais de **4 anos de experiência**, nível pleno, especializado na criação de interfaces responsivas para websites.
+#### **Desenvolvedor Web especializado na criação de sites, sistemas web e aplicativos móveis.
 
 <p align="left">
   <a href="https://www.joelestumano.com/" target="_blank" title="joelestumano.com">
