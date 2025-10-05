@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Joel Estumano
 
-#### **Desenvolvedor Web especializado na criação de sites, sistemas web e aplicativos móveis.
+#### **Desenvolvedor Web especializado na criação de sites, sistemas web e aplicativos móveis.**
 
 <p align="left">
   <a href="https://www.joelestumano.com/" target="_blank" title="joelestumano.com">
